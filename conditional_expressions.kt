@@ -9,7 +9,7 @@ fun main(){
 }
 
 //if/else Expression
-un main() {
+fun main() {
   var saleHappening = false
   var price: Int
   // Write your code below
